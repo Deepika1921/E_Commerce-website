@@ -42,4 +42,7 @@ This project is an e-commerce website developed as a part of [Full-stack web dev
 5. View your order history and manage your account as needed.
 
 ## Screenshots
-![E-Commerce website Interface](https://github.com/Deepika1921/E_Commerce-website/assets/164313012/3b8fe401-6a08-4492-bbfe-12a83ded0b7f)
+![E-Commerce website Interface](https://github.com/Deepika1921/E_Commerce-website/assets/164313012/55f5d5f7-7795-4a0c-9c73-e11cac422c43)
+![E-Commerce website Interface](https://github.com/Deepika1921/E_Commerce-website/assets/164313012/3ff4bd02-8d57-4f32-949c-b88a691c1a33)
+
+
